@@ -1,0 +1,28 @@
+{
+  "me": [
+    {
+      "id": 1,
+      "fullName": "frikk odlolien",
+      "lang": "no_NB",
+      "email": "frikkodlo@hotmail.com",
+      "role": "admin"
+    }
+  ],
+  "data": [
+    {
+      "id": 1,
+      "sales": 24,
+      "importance": "high"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "frikk"
+    },
+    {
+      "id": 2,
+      "name": "kathrine"
+    }
+  ]
+}
